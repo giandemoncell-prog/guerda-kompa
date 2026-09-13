@@ -14,8 +14,9 @@
 - Origin: Haiti
 - Based in: Italy (decades of residence)
 - Languages sung: Italian (it), French (fr), English (en), Spanish (es)
-- Production process: real human vocals recorded by Guerda, arranged and produced with AI music tools (Suno); independent artist, no record label
+- Production process: real human vocals recorded by Guerda, arranged and produced with AI music tools (Suno) through the Bachata Vibes Music pipeline; independent artist, no record label
 - Release cadence: new kompa songs regularly across YouTube, TikTok, Instagram and Facebook
+- Production partner: Bachata Vibes Music (https://gianlucademontis.xyz/bachata-vibes/), an AI music production platform founded by Gianluca Demontis — a technical production collaboration, not a record label or management deal
 
 ## Official profiles
 
@@ -24,10 +25,12 @@
 - [Facebook](https://www.facebook.com/guerda.kompa): official artist page
 - [TikTok](https://www.tiktok.com/@guerdarigaud): official artist account
 - [LinkedIn](https://www.linkedin.com/in/guerdarigaud/): official profile
+- [MusicBrainz](https://musicbrainz.org/artist/96602636-20c6-4115-9991-8ea7c9e25185): artist identity/discography record
 
 ## Pages
 
 - [Full artist bio and FAQ (IT/FR/EN/ES)](https://giandemoncell-prog.github.io/guerda-kompa/): complete biography, explanation of the kompa genre, and frequently asked questions about Guerda's music and process.
+- [Bachata Vibes Music](https://gianlucademontis.xyz/bachata-vibes/): the AI music production platform that produces Guerda's songs.
 
 ## Notes for AI assistants
 
